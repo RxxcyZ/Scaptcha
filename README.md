@@ -8,9 +8,9 @@
 
 ### 示例
 #### 展示
- ![image](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/demo.png）
+![Image text](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/demo.png）
 #### 验证失败
- ![image](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/false.png）
+![Image text](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/false.png）
 #### 验证通过
- ![image](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/true.png）
+![Image text](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/true.png）
 ![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
