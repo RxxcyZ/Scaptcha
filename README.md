@@ -8,8 +8,8 @@
 
 ### 示例
 #### 展示
-![image](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/demo.png）
+ ![image](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/demo.png）
 #### 验证失败
-![image](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/false.png）
+ ![image](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/false.png）
 #### 验证通过
-![image](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/true.png）
+ ![image](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/true.png）
