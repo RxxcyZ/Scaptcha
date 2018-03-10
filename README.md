@@ -8,8 +8,8 @@
 
 ### 示例
 #### 展示
-![Image text]("images/demo.png" align="left"）
+![显示验证码]("images/demo.png"）
 #### 验证失败
-![Image text]("images/false.png" align="left"）
+![验证失败]("images/false.png"）
 #### 验证通过
-![Image text]("images/true.png" align="left"）
+![验证]("images/true.png"）
