@@ -10,6 +10,6 @@
 #### 展示
 ![验证码显示](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/demo.png)
 #### 验证失败
-![Image text](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/false.png)
+![验证失败](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/false.png)
 #### 验证通过
-![Image text](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/true.png)
+![验证通过](https://raw.githubusercontent.com/RxxcyZ/scode/master/images/true.png)
