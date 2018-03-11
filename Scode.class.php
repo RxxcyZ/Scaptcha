@@ -13,7 +13,7 @@ session_start();
  * 人类验证，与传统的验证码同一原理。
  * 随机生成2个数字，填写表单时候计算正确才可以通过验证。
  */
-class Scode
+class Scaptcha
 {	
 	//最小数
 	protected $min = 0;
