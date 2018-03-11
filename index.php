@@ -10,7 +10,7 @@
 
 require 'Scode.class.php';
 
-$scode = new Scode();
+$scode = new Scaptcha();
 if (isset($_POST['inputRes']) && !empty($_POST['inputRes'])) {
 	$scode->inputRes = $_POST['inputRes'];
 	var_dump($scode->checkScode());
